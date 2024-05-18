@@ -1,1 +1,9 @@
 # AI_resource
+
+## MTEC Machine Learning Mini-Lecture
+1. [Machine learning concept and thinking](https://www.youtube.com/watch?v=kBXG5GHEbaY&list=PLJIJClalm2xNwyA2P2k6HRBxmWRW422Ex&index=2&t=337s)
+2. [Principles of unsupervised techniques]()
+3. [Principles of supervised techniques]
+4. [Experimental design for ML project]
+5. [Effective communication with ML practitioners]
+6. 
