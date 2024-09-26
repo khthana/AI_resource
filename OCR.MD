@@ -1,0 +1,6 @@
+1. (Thai Optical Character Recognition (Thai OCR) — การแปลงรูปภาพเป็นข้อความ)[https://medium.com/@p.siriphanthong/thai-optical-character-recognition-thai-ocr-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1-fdeede331b6d]
+2. (EasyOCR)[https://github.com/JaidedAI/EasyOCR]
+3. (Text Detection Using CRAFT Text Detector)[https://www.analyticsvidhya.com/blog/2022/06/text-detection-using-craft-text-detector/]
+4. (15 Best OCR & Handwriting Datasets for Machine Learning)[https://www.linkedin.com/pulse/15-best-ocr-handwriting-datasets-machine-learning-limarc-ambalina]
+5. (Document Orientation Correction)[https://www.kaggle.com/code/ritvik1909/document-orientation-correction]
+6. (Guide to OCR with Tesseract, OpenCV and Python)[https://espressofx.medium.com/guide-to-ocr-with-tesseract-opencv-and-python-24aaa204b3f7]
