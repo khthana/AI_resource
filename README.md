@@ -20,5 +20,15 @@
 2. **[CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)**
 3. [Beginner: Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
 4. [CS221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/autumn2023/)
-5. [Neural Networks from Scratch - P.1 Intro and Neuron Code](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
-6. 
+5. [CS221: Artificial Intelligence: Principles and Techniques YT](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+6. [Neural Networks from Scratch - P.1 Intro and Neuron Code](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+7. [DeepLearning.AI : Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction#courses)
+8. [DeepLearning.AI : AI For Everyone](https://www.coursera.org/lecture/ai-for-everyone/week-1-introduction-SRwLN)
+9. [DeepLearning.AI : Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+10. [MS : Introduction to machine learning with Python and Azure Notebooks](https://learn.microsoft.com/en-us/training/paths/intro-to-ml-with-python/)
+11. [MS: Microsoft Azure AI Fundamentals: AI Overview](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/)
+12. [MS : Artificial Intelligence for Beginners](https://microsoft.github.io/AI-For-Beginners/?id=getting-started)
+13. [Machine Learning and Full-stack Python ภาษาไทย](https://guopai.github.io/)
+
+
+
