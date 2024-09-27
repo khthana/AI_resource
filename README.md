@@ -1,5 +1,9 @@
 # AI_resource
 
+1. [Tautology-Deep-Learning-Book](https://github.com/TAUTOLOGY-EDUCATION/Tautology-Deep-Learning-Book)
+2. [Algorithmic Simplicity](https://www.youtube.com/@algorithmicsimplicity)
+3. 
+
 ## MTEC Machine Learning Mini-Lecture
 1. [Machine learning concept and thinking](https://www.youtube.com/watch?v=kBXG5GHEbaY&list=PLJIJClalm2xNwyA2P2k6HRBxmWRW422Ex&index=2&t=337s)
 2. [Deep learning principles I](https://www.youtube.com/watch?v=UOJJI2T9BSw&list=PLxieDgFcdcRCJQaHpwxJ0ug9UFdVT2PN_&index=2)
@@ -41,6 +45,12 @@
 12. [MS: Microsoft Azure AI Fundamentals: AI Overview](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/)
 13. [MS : Artificial Intelligence for Beginners](https://microsoft.github.io/AI-For-Beginners/?id=getting-started)
 14. [Machine Learning and Full-stack Python ภาษาไทย](https://guopai.github.io/)
+15. [2110597 Pattern Recognition ](https://www.youtube.com/watch?v=mhtxOL_IynQ)
+16. [Python & Machine Learning เบื้องต้น 12 ชั่วโมงเต็ม [FULL COURSE]](https://www.youtube.com/watch?v=kUF5hPfQWaQ&t=3s)
+
+## Dataset
+1. [Datasets for Machine Learning](https://laurencemoroney.com/datasets.html)
+2. [Wang Datasets ไทย](https://www.wang.in.th/dataset)
 
 ## Advance Youtube
 1. [AI Focus Series](https://www.youtube.com/@wenhua-yu-ai-lesson-en)
@@ -53,6 +63,9 @@
 8. [Introduction to LangChain](https://learn.theaiedge.io/p/introduction-to-langchain)
 9. [Deploying Machine Learning Models](https://www.youtube.com/playlist?list=PLfFghEzKVmjttkxVtVIvNZRuoSUuWtsFN)
 10. [Editable Dance GEneration (EDGE)](https://www.youtube.com/watch?v=zyY0PZE8diM)
+
+## Advance
+1. [MS-G3D improved Imputation and Action Recognition of Incomplete Human Skeletons Based on Graph Convolutional Neural Network ไทย](https://medium.com/@oppjakarin/ms-g3d-improved-imputation-and-action-recognition-of-incomplete-human-skeletons-based-on-graph-35ba5595c10a) 
 
 ## ETC
 1. [Understanding Bias and Variance in Machine Learning](https://medium.com/advanced-deep-learning/understanding-bias-and-variance-in-machine-learning-5231dd117e12)
@@ -69,7 +82,7 @@
 12. [VISAI](https://visai.ai/th)
 13. [Botnoi Voice สามารถใช้งานบน Canva ได้แล้ว ](https://fasttacks.com/bot-canva/)
 14. [Neural Network Concepts Animation](https://nnfs.io/neural_network_animations)
-
+15. [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)
 16. 
 
 ## Numpy & Pandas
@@ -98,8 +111,29 @@
 3. [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
 4. [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 5. [รวมคอร์สเรียน ChatGPT](https://www.facebook.com/photo/?fbid=632223565609621&set=a.593996262765685)
+6. [4 ขั้นตอนง่ายๆ สร้างสไลด์พรีเซ้นลูกค้าด้วย ChatGPT](https://www.facebook.com/ailifeconnect/posts/pfbid0zfTvWC4RsXNr6Y1K5ez9fSSExTZcVbKZNmYA5tsvnJHoTrQw8sEYya5tw1KKhrEPl)
+7. [เพิ่มพลัง Midjourney V.6.0 ด้วยพลังจาก ChatGPT](https://www.facebook.com/groups/aithailandgroup/permalink/7031120776971492/)
+8. [8 AI ช่วยเขียนโปรแกรม](https://www.facebook.com/groups/aithailandgroup/permalink/7370402086376691/)
+9. [AI ช่วยหา Research Paper](https://www.facebook.com/ailifeconnect/posts/pfbid06FGpZ67G5gcQRdwHhJDFj8EcArSHWDeVvtMyHiFFHVMx77QsVAr15cDfJsdQF8ESl)
+10. [ใช้ Prompt สอนให้ model เรียนรู้ เรียก Prompt-based Training](https://www.facebook.com/groups/754599383050828/permalink/757044919472941/)
+11. [คอร์สฟรี จาก LinkedIn](https://www.facebook.com/groups/754599383050828/permalink/760746325769467/)
+12. [Prompt Engineering Guide](https://learnprompting.org/docs/introduction)
+13. [ChatGPT in Practice: IMC](https://docs.google.com/presentation/d/1Xt9jOLLV0ux8lau8CtG4xv-s5aMHonsyTSbLVWVhMQc/edit#slide=id.g8749f74aec_6_1060)
+14. [Unlocking the Power of Generative AI Models and Systems such as GPT-4 and ChatGPT for Higher Education](https://www.uni-hohenheim.de/uploads/media/23-03-20_Whitepaper_ChatGPT.pdf)
+15. [สูตร prompt สำหรับครู-อาจารย์](https://www.facebook.com/groups/aithailandgroup/permalink/6075318542551725/)
+16. [เทคนิคเบื้องต้น สู่การเป็น Prompt Engineers 👷‍♂️](https://www.facebook.com/groups/aithailandgroup/permalink/6083948678355378/)
+17. [Visual chatGPT Studio](https://marketplace.visualstudio.com/items?itemName=jefferson-pires.VisualChatGPTStudio)
+18. **[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)**
+19. [How to Install ChatGPT in VSCode for Better Productivity](https://www.freecodecamp.org/news/install-chatgpt-in-vscode/)
+20. [เขียนบทความบน Google Doc ด้วย Chat GPT](https://www.dek-com.com/2024/03/25/เขียนบทความบน-google-doc-ด้วย-chat-gpt/)
 
 ## ChatGPT Dev
 1. [ChatGPT Course – Use the OpenAI API to Create Five Projects](https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/)
 2. [Text Summarization Development: A Python Tutorial with GPT-3.5](https://www.kdnuggets.com/2023/04/text-summarization-development-python-tutorial-gpt35.html)
 3. 
+
+## AIAT
+1. [Modern-Image-Search](https://colab.research.google.com/drive/1Zihav1X_ugBmLgRV4m4B16nxBudyj9jM?usp=sharing)
+2. [ปฐมบทแรก เส้นทางสู่การเป็น super AI engineer](https://www.ninenox.com/2020/09/20/%e0%b8%9b%e0%b8%90%e0%b8%a1%e0%b8%9a%e0%b8%97%e0%b9%81%e0%b8%a3%e0%b8%81-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b9%e0%b9%88%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80/)
+3. [AIAT YT](https://www.youtube.com/@AIAT2015)
+4. 
