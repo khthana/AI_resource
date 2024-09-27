@@ -26,7 +26,7 @@
 11. [ตัวถอดเสียงและการแยกเสียง แยกเสียงจากเพลงออกจากเพลงฟรีด้วยอัลกอริธึม AI อันทรงพลัง](https://vocalremover.org/th/?fbclid=IwZXh0bgNhZW0CMTAAAR2CrH4TEQhC-ck2npTXqaAollH1oKD4X3iueaY_ygAfwKVP_WlBue1UFsc_aem_AQCR1myF3wf94IqrQKNhp_zX2f7R3QVG-Hy2-i4eszcAvDEdrprlgZK1mrq1mzcwLn7JhQrhkRZVbos3VDthtADC)
 12. [OpenThermalPose](https://github.com/IS2AI/OpenThermalPose)
 
-##  Youtube
+##  Course & Youtube
 1. [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 2. **[CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)**
 3. **[MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)**
@@ -62,7 +62,44 @@
 5. [Open Thai GPT (Hands-on)](https://www.youtube.com/watch?v=VS4hHx3tdyw)
 6. [Clean up audio for free with Adobe Podcast AI](https://podcast.adobe.com/enhance)
 7. [อับดุลเอ้ย! ถามอะไรตอบได้ในกลุ่มไลน์ด้วย LINE x ChatGPT พัฒนาจบใน 3 ขั้นตอน!](https://medium.com/linedevth/line-chatgpt-group-9b2fc5ea94d3)
-8. 
+8. [Replit แจกปัญญาประดิษฐ์ Replit Code V1.5 โมเดลขนาดเล็กประสิทธิภาพสูง](https://www.blognone.com/node/136203)
+9. [Introducing no-code LLM FineTuning with Monster API](https://blog.monsterapi.ai/no-code-fine-tuning-llm/)
+10. [ML Flow](https://mlflow.org/)
+11. [การใช้ GPU ใน Docker Container ด้วยระบบปฏิบัติการ Ubuntu (NVIDIA)](https://medium.com/@63010177/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89-gpu-%E0%B9%83%E0%B8%99-docker-container-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3-ubuntu-nvidia-d457546c33a6)
+12. [VISAI](https://visai.ai/th)
+13. [Botnoi Voice สามารถใช้งานบน Canva ได้แล้ว ](https://fasttacks.com/bot-canva/)
+14. [Neural Network Concepts Animation](https://nnfs.io/neural_network_animations)
 
+16. 
 
+## Numpy & Pandas
+1. [สอน Python & Pandas | สำหรับจัดการและวิเคราะห์ข้อมูล [FULL COURSE]](https://www.youtube.com/watch?v=SPdwqEPZ_EE)
+2. [Numpy Basics by INVESTIC](https://colab.research.google.com/drive/14__5bI4VGWGZmBA_OlW9ryM6YUTLGGB4?usp=sharing&fbclid=IwAR2p-L1T-khzOXMJaSaiBbOa0rgoB1JJunYL_ekvO0KmyI4mRAl9rhMekQw)
+3. [Cheatsheet วิธีใช้ และเทคนิคใน Pandas (Python) ฉบับสมบูรณ์](https://blog.datath.com/cheatsheet-pandas/)
 
+## Deep Learning 
+1. [การทำ Regularization ด้วยเทคนิค Augmentation, Batch Normalization และ Dropout](https://medium.com/@promtao_c/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3-regularization-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84-augmentation-batch-normalization-%E0%B9%81%E0%B8%A5%E0%B8%B0-dropout-f820b9f9d3c9)
+2. [การทำ Regularization แบบสมัยใหม่ ด้วยเทคนิค Augmentation, Batch Normalization และ Dropout](https://blog.pjjop.org/modern-regularization-with-data-augmentation-batch-normalization-and-dropout/)
+3. [MNIST Handwritten Digits Classification](https://github.com/NvsYashwanth/MNIST-Handwritten-Digits-Recognition/blob/master/digitsMNIST.ipynb)
+4. [Handwritten Digit Recognition](https://github.com/amitrajitbose/handwritten-digit-recognition/blob/master/handwritten_digit_recognition_GPU.ipynb)
+5. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+6. [Intro to optimization in deep learning: Gradient Descent](https://www.digitalocean.com/community/tutorials/intro-to-optimization-in-deep-learning-gradient-descent)
+
+## Pytorch 
+1. [PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/learn/lecture/32656552#overview)
+2. 
+
+## AI Builder
+1. [ปรับพื้นฐาน #2 - Introduction to Numpy and Pandas](https://www.youtube.com/watch?v=OzQTfrHDebg)
+
+## ChatGPT & Prompt
+1. [BeWithAi101](https://www.youtube.com/@bewithai101)
+2. [GPT4-Turbo สร้างโปรแกรมประเภท AI Image Classification](https://www.facebook.com/groups/5779011592182423/permalink/6993315700752000/)
+3. [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
+4. [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+5. [รวมคอร์สเรียน ChatGPT](https://www.facebook.com/photo/?fbid=632223565609621&set=a.593996262765685)
+
+## ChatGPT Dev
+1. [ChatGPT Course – Use the OpenAI API to Create Five Projects](https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/)
+2. [Text Summarization Development: A Python Tutorial with GPT-3.5](https://www.kdnuggets.com/2023/04/text-summarization-development-python-tutorial-gpt35.html)
+3. 
